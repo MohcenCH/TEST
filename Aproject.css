@@ -1,0 +1,55 @@
+body {
+    background-image: url("background2.jpg");
+}
+.fgpwd {
+    color: #828C90;   
+    margin-left: 70%;
+}
+.navbar{
+    background-color: #828C90;
+    height: 60px;
+    width: 100%;
+}    
+.cntr {
+    border: dotted #828C90;
+    text-align: center;
+    margin-top: 9%;
+}
+.submit {
+    float: right;
+}
+.container {
+   height: 90;
+   width: 45%;
+   padding: 50px;
+}
+.login {
+    border-bottom: 5px;
+}
+.login , .signup {
+    width: 50%;
+    
+}
+.input {
+    border: none;
+    background: none;
+    border-bottom: 3px solid #828C90;
+}
+.display-4 {
+    color: #828C90;
+}
+.usrpwd {
+    color: #828C90;
+}
+.btn0 {
+    background-color: #828C90;
+    color: white;
+}
+.fab {
+    font-size: 45px;
+    color: #828C90; 
+}
+.remember {
+    font-size: 15px;
+    color: #828C90;
+}
